@@ -4,5 +4,4 @@ theme: just-the-docs
 
 url: https://engle212.github.io/opencv-python-doc
 
-aux_links:
-  Template Repository: https://github.com/engle212/opencv-python-doc
+color_scheme: dark
