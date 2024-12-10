@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Space Mono";
+  src: url("SpaceMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-Regular.ttf");
+}
+
+$body-font-family: Montserrat, arial, sans-serif, "Segoe UI Emoji";
+$mono-font-family: "Space Mono", monospace;

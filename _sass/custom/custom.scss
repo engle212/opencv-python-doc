@@ -1,0 +1,14 @@
+body {
+  letter-spacing: -0.25px;
+  font-weight: 500;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  font-weight: 800;
+}
+
+.text-delta {
+  font-family: $body-font-family;
+}

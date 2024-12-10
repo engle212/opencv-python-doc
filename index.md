@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 The OpenCV Python Doc repository is a project aiming to document the entirety of OpenCV's Python binding. Every class and function will have:
