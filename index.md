@@ -9,3 +9,7 @@ The OpenCV Python Doc repository is a project aiming to document the entirety of
 - Behavior described to the fullest extent
 - Inputs and outputs clearly defined
 - Sample code to demonstrate specifically how to use different components
+
+```python
+print("hello, world!")
+```

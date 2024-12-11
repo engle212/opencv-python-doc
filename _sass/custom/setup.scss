@@ -1,12 +1,17 @@
 @font-face {
-  font-family: "Space Mono";
-  src: url("SpaceMono-Regular.ttf");
+  font-family: "Computer Modern Serif";
+  src: url("cmunrm-webfont.woff");
 }
 
 @font-face {
-  font-family: "Montserrat";
-  src: url("Montserrat-Regular.ttf");
+  font-family: "Computer Modern Serif Bold";
+  src: url("cmunbx-webfont.woff");
 }
 
-$body-font-family: Montserrat, arial, sans-serif, "Segoe UI Emoji";
-$mono-font-family: "Space Mono", monospace;
+@font-face {
+  font-family: "Computer Modern Typewriter";
+  src: url("cmuntt-webfont.woff");
+}
+
+$body-font-family: "Computer Modern Serif", Georgia, 'Times New Roman', Times, serif;
+$mono-font-family: "Computer Modern Typewriter", monospace;

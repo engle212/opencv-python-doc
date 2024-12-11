@@ -1,14 +1,38 @@
 body {
-  letter-spacing: -0.25px;
+  letter-spacing: 0.25px;
+  font-size: 16px;
   font-weight: 500;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: "Computer Modern Serif Bold";
   letter-spacing: 1px;
-  font-weight: 800;
+}
+
+h3 {
+  font-family: $mono-font-family;
+  font-size: 1.4rem !important;
+  margin-top: 28px !important;
+  margin-bottom: 0px !important;
+}
+
+h4 {
+  margin-top: 0.5em !important;
 }
 
 .text-delta {
-  font-family: $body-font-family;
+  font-family: "Computer Modern Serif Bold";
+}
+
+.nav-list-link {
+  font-size: 17px;
+}
+
+.nav-list-link.active {
+  background-color: $feedback-color; 
+}
+
+blockquote, blockquote p {
+  margin-top: 4px !important;
+  margin-bottom: 4px;
 }
